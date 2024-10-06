@@ -1,0 +1,89 @@
+.Head{
+    display: flex;
+    background-color:navy;
+    color: white;
+    height: 100px;
+}
+.Logo p{
+    font-size: xx-large;
+    margin-left: 35px;
+}
+.Head a{
+    text-decoration: none ;
+    color: white;
+    margin-top: 40px;
+    margin-left: 150px;
+    font-size: 20px;
+}
+.Head img{
+    margin-left: 0px;
+    width: 200px;
+    height: auto;
+}
+.Find {
+    margin-top: 30px;
+    color: black;
+    background-color: white;
+    margin-left: 100px;
+    width: 250px;
+    height: 40px;
+}
+.Find p{
+    color: grey;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.ten{
+    display: flex;
+    justify-content: center;
+}
+.ten1{
+    border-style: ridge;
+    width: 300px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+.table{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 30px;
+}
+.table table{
+    width: 800px;
+}
+.table img{
+    height: 150px;
+}
+.Footer {
+    text-align: center;
+    margin-top: 10px;
+    background-color: black;
+    width: auto;
+    height: 330px;
+    justify-content: space-between;
+}
+.Footer h1{
+    padding-top: 50px;
+    color: white;
+    font-size: 50px;
+}
+.Footer p{
+    color: white;
+    font-size: x-large;
+}
+.Footer-link{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.Footer-link a{
+    color: white;
+    font-size: large;
+    text-decoration: none;
+    margin-left: 100px;
+    margin-right: 100px;
+}

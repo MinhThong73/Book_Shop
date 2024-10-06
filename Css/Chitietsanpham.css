@@ -1,0 +1,136 @@
+.Head{
+    display: flex;
+    background-color:navy;
+    color: white;
+    height: 100px;
+}
+.Logo p{
+    font-size: xx-large;
+    margin-left: 35px;
+}
+.Head a{
+    text-decoration: none ;
+    color: white;
+    margin-top: 40px;
+    margin-left: 150px;
+    font-size: 20px;
+}
+.Head img{
+    margin-left: 0px;
+    width: 200px;
+    height: auto;
+}
+.Find {
+    margin-top: 30px;
+    color: black;
+    background-color: white;
+    margin-left: 100px;
+    width: 250px;
+    height: 40px;
+}
+.Find p{
+    color: grey;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.card{
+    display: flex;
+    border-style: outset;
+    width: 700px;
+    margin-left: 370px;
+    margin-top: 40px;
+}
+.card img{
+    width: 500px;
+}
+.mota{
+    text-align: center;
+}
+.mota p{
+    font-size: x-large;
+}
+.soluong{
+    display: flex;
+}
+.soluong p{
+    margin-top: 10px;
+    margin-left: 90px;
+}
+.gia{
+    display: flex;
+    margin-left: 155px;
+}
+#button{
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 300px;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+.danhgia h1{
+    margin-left: 300px;
+}
+.danhgia th{
+    margin-left: 50px;
+    font-size: x-large;
+}
+.danhgia2{
+    display: flex;
+    justify-content: center;
+}
+.thongtin{
+    margin-left: 300px;
+}
+.thongtin p{
+    font-size: x-large;
+}
+.binhluan {
+    margin-left: 300px;
+}
+.binhluan p{
+    font-size: x-large;
+}
+.binhluan img{
+    width: 80px;
+    height: 80px;
+}
+.name1 {display: flex;}
+.name1 p{
+    margin-left: 450px;
+}
+.Footer {
+    text-align: center;
+    margin-top: 10px;
+    background-color: black;
+    width: auto;
+    height: 330px;
+    justify-content: space-between;
+}
+.Footer h1{
+    padding-top: 50px;
+    color: white;
+    font-size: 50px;
+}
+.Footer p{
+    color: white;
+    font-size: x-large;
+}
+.Footer-link{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.Footer-link a{
+    color: white;
+    font-size: large;
+    text-decoration: none;
+    margin-left: 100px;
+    margin-right: 100px;
+}

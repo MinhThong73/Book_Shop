@@ -1,0 +1,95 @@
+.Head{
+    display: flex;
+    background-color:navy;
+    color: white;
+    height: 100px;
+}
+.Logo p{
+    font-size: xx-large;
+    margin-left: 35px;
+}
+.Head a{
+    text-decoration: none ;
+    color: white;
+    margin-top: 40px;
+    margin-left: 150px;
+    font-size: 20px;
+}
+.Head img{
+    margin-left: 0px;
+    width: 200px;
+    height: auto;
+}
+.Find {
+    margin-top: 30px;
+    color: black;
+    background-color: white;
+    margin-left: 100px;
+    width: 250px;
+    height: 40px;
+}
+.Find p{
+    color: grey;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.login{
+    display: flex;
+    justify-content: center;
+}
+.lenh{
+    display: flex;
+    margin-left: 50px;
+}
+.lenh p{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+}
+.lenh a{
+    text-decoration: none;
+    color:#4caf50;
+    margin-left: 5px;
+    margin-right: 50px;
+    font-size: large;
+}
+.email{
+    display: flex;
+}
+.Form{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.Footer {
+    text-align: center;
+    margin-top: 50px;
+    background-color: black;
+    font-size: xx-large;
+    width: auto;
+    height: 330px;
+    justify-content: space-between;
+}
+.Footer h1{
+    padding-top: 50px;
+    color: white;
+    font-size: 50px;
+}
+.Footer p{
+    color: white;
+    font-size: x-large;
+}
+.Footer-link{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.Footer-link a{
+    color: white;
+    font-size: large;
+    text-decoration: none;
+    margin-left: 100px;
+    margin-right: 100px;
+}
